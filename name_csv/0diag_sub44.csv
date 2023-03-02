@@ -1,0 +1,45 @@
+﻿idx,names,names_cn
+0,NORM,正常心电图
+1,LAFB,左前分支传导阻滞
+2,LPFB,左后分支阻滞
+3,IRBBB,不完全右束支阻滞
+4,1AVB,一度房室传导阻滞
+5,3AVB,三度房室传导阻滞
+6,2AVB,二度房室传导阻滞
+7,IVCD,非特异室内传导阻滞
+8,CRBBB,完全性右束支阻滞
+9,CLBBB,完全性左束支阻滞
+10,WPW,预激综合征
+11,ILBBB,不完全左束支阻滞
+12,IMI,下壁心肌梗死
+13,ILMI,下侧壁心肌梗死
+14,IPLMI,下后侧壁心肌梗死
+15,IPMI,下后壁心肌梗死
+16,INJIN,下肢导联心内膜下损伤(II III AVF)
+17,INJIL,下侧壁导联心内膜下损伤
+18,ASMI,前间隔心肌梗死
+19,AMI,前壁心梗
+20,ALMI,"前侧壁心肌梗死（v5-v7,I AVL）"
+21,INJAS,前间隔导联心内膜下损伤（v1-v3）
+22,INJAL,前外侧导联（前侧壁）心内膜下损伤（V5-V7，I AVL）
+23,INJLA,外侧（高侧壁）导联心内膜下损伤(I AVL)
+24,LMI,侧壁心梗
+25,PMI,后壁心梗
+26,LVH,左心室肥厚
+27,LAO/LAE,左心房肥大
+28,RVH,右心室肥厚
+29,RAO/RAE,右心房肥大
+30,SEHYP,间隔肥厚
+31,NDT,非诊断性T波异常
+32,DIG,洋地黄效应
+33,LNGQT,长QT间期
+34,ANEUR,室壁瘤ST-T段改变
+35,EL,电解质或药物干扰
+36,NST_,非特异性ST段改变
+37,ISC_,非特异性心肌缺血
+38,ISCAL,"前外侧导联心肌缺血（v5、v6,I AVL）"
+39,ISCAS,前间隔导联心肌缺血（v1、v2（v3））
+40,ISCLA,外侧导联心肌缺血（I AVL）
+41,ISCAN,前向导联心肌缺血（V3 V4）
+42,ISCIN,下肢导联心肌缺血（II III AVF）
+43,ISCIL,下外侧导联心肌缺血（II III AVF V5-V7）

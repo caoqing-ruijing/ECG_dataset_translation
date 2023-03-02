@@ -1,1 +1,6 @@
-
+﻿idx,names,names_cn
+0,NORM,正常心电图
+1,CD,传导异常
+2,MI,心肌梗死
+3,HYP,心肌肥厚
+4,STTC,ST-T段改变

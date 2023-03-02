@@ -1,0 +1,13 @@
+﻿idx,names,names_cn
+0,SR,窦性节律
+1,TRIGU,三联律
+2,STACH,窦性心动过速
+3,SVTAC,室上性心动过速
+4,SBRAD,窦性心动过缓
+5,AFLT,房扑
+6,AFIB,房颤
+7,BIGU,二联律
+8,SARRH,窦性心律不齐
+9,PACE,正常起搏器心电图
+10,PSVT,阵发性室上性心动过速
+11,SVARR,室上性心律失常
